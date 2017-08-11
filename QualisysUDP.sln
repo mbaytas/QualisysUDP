@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualisysUDP", "QualisysUDP\QualisysUDP.csproj", "{CF8E202B-1551-4F05-85F1-1C23B5A29A58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTClientSDK.Net", "..\..\_Qualisys\RTClientSDK.Net\RTClientSDK.Net.csproj", "{0DF35107-DDE5-4E9E-9284-F5D05BB47146}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CF8E202B-1551-4F05-85F1-1C23B5A29A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF8E202B-1551-4F05-85F1-1C23B5A29A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF8E202B-1551-4F05-85F1-1C23B5A29A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DF35107-DDE5-4E9E-9284-F5D05BB47146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF35107-DDE5-4E9E-9284-F5D05BB47146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF35107-DDE5-4E9E-9284-F5D05BB47146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF35107-DDE5-4E9E-9284-F5D05BB47146}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
